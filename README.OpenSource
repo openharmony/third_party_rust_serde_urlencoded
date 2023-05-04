@@ -1,8 +1,8 @@
 [
   {
     "Name": "serde_urlencoded",
-    "License": "Apache License V2.0, MIT",
-    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE",
     "Version Number": "0.7.1",
     "Owner": "xuelei3@huawei.com",
     "Upstream URL": "https://github.com/nox/serde_urlencoded",
